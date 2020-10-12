@@ -1,3 +1,3 @@
 ```console
-khoa@host$ sudo apt install curl
+k@host$ sudo apt install curl
 ```
