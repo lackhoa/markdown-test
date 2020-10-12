@@ -1,2 +1,3 @@
-# markdown-test
-Just a test for markdown
+```console
+$ sudo apt install curl
+```
