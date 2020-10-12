@@ -1,3 +1,3 @@
 ```console
-a@b sudo apt install curl
+ab$ sudo apt install curl
 ```
